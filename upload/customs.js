@@ -6,6 +6,6 @@ button.className = "button";
 
 button.addEventListener("click", function() {
   // Mở URL trong tab mới khi click
-  window.open("https://movieswatch.xyz/flix2day/", "_blank");
+  window.open("https://http://flixhive.site/click-next-to-watch-without-ads/", "_blank");
 });
 document.getElementById("view-full").appendChild(button);
